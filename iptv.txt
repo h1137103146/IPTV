@@ -537,8 +537,6 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #体育频道
 #EXTINF:-1 tvg-name="广东体育" group-title="体育频道",广东体育
 http://r.jdshipin.com/LiYdg
-#EXTINF:-1 tvg-name="广东体育" group-title="体育频道",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="五星体育" group-title="体育频道",五星体育
 https://other.ottiptv.cc/wxty.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" group-title="体育频道",劲爆体育
