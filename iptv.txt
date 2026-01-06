@@ -1,42 +1,42 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1-MCP
+#EXTINF:-1 tvg-name="cctv1" group-title="央视频道",cctv1-MCP
 https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=6593506349&sign=a887d92add02a26551f6d63c3d0b9be9aaed77af6663eaa52adf4e16b6e240dcf9f7dfd474453e694d92075c88807817f766368a3b1436e1aac8138e081a7ce5bcfc29c64392c23033dd8c5f15&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2-MCP
+#EXTINF:-1 tvg-name="cctv2" group-title="央视频道",cctv2-MCP
 https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=6593506349&sign=0cc0e05b9634426e7812e48997705400cb4add3441dff32cd5a11b6fe371bb943ed61075d16c462b201aa8c6494ff35eb30bf83c561f66ec3b908afcd059afa82c910b6058205b3c5822453877&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV3-MCP
+#EXTINF:-1 tvg-name="cctv3" group-title="央视频道",cctv3-MCP
 https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=6593506349&sign=b87337f49b68f4cb6a18b6056c266ba9b87bfd9f1b71baff22ba4f2651e929125c4922b9ce486c6775297c0f0ff0400759eb9abaa0a9e87743b8d187fbdad01168ced8bc9cfd2d9a780a1da8ef&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV4-MCP
+#EXTINF:-1 tvg-name="cctv4" group-title="央视频道",cctv4-MCP
 https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=6593506349&sign=a53c8af5efb40628cf6b2680c60da3ace7ff9a984a2c7f6f0d9fbff1401e115ccb8a325c84c1f52001d675b8f02ed5a900e2bf5e935089b8e43e22dca04c72986add0a4d79519d51f7b65c8be0&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV5-MCP
+#EXTINF:-1 tvg-name="cctv5" group-title="央视频道",cctv5-MCP
 https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=6593506349&sign=51629968f71d24eb53b5f98f78eb0b84a68db1c753bb06d071a0be58e790d9f64e60bab7464f77fc57c67f115ac6caf7967d7f06c49b61f2fb3d55df700690d94c26275f9d931912964b1ec305&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5p-MCP
+#EXTINF:-1 tvg-name="cctv5+" group-title="央视频道",cctv5p-MCP
 https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=6593506349&sign=e448d145b607624e26d3610a8dd3c18bc9b214fcd3456e84afe5743611269314750246d1870b4ce7dc182f75b6d3ea90d83f5cf0edc4a2113feab62eb735eca5ad6e288c67b8a7b14eb954673f52&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV6-MCP
+#EXTINF:-1 tvg-name="cctv6" group-title="央视频道",cctv6-MCP
 https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=6593506349&sign=001c4405c4a3a7bdf11c9765284c4d1127f2890b9fd27ec11f9cedafd6989b3e42c77da791ddbb332bfeadae2b72ed27c94403108436466b82206c7018cea4e4b26d80c20933ddf58cb1dc63cf&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV7-MCP
+#EXTINF:-1 tvg-name="cctv7" group-title="央视频道",cctv7-MCP
 https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=6593506349&sign=5812c07f092c51293e5db57188c087a2c0beecc6f2e6c5212f677ccb693856645350d23d1c35074ca1c2947274f20f2ed5979aa5c2cff2e0b58674a9cbb4a29183985dc3f0fc33e7450255d737&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV8-MCP
+#EXTINF:-1 tvg-name="cctv8" group-title="央视频道",cctv8-MCP
 https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=6593506349&sign=84b30e915ba22fbbcc18b86954d609bc5d6a5328ab6e0474b804a97f64942daa345ce718d9b95925b67684071452f21cc11252aaf7851637f224aaa5e0bebd087ae2a916c929743e39c216ce56&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV9-MCP
+#EXTINF:-1 tvg-name="cctv9" group-title="央视频道",cctv9-MCP
 https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=6593506349&sign=0e30c60662569b6386d0d64e8d678cccaa1c58e72b1c88eb5e6005caf2f066c5ffdcaa1005bb0fb7d4ffb80129c85bddefa51845df7a8f8c149949ee45badcdef6ba276c6ef23db4afecbc8a21&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV10-MCP
+#EXTINF:-1 tvg-name="cctv10" group-title="央视频道",cctv10-MCP
 https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=6593506349&sign=ca8f2f2573a89b814aba6ba4e43e8831af7eb1e81a076979c9bb4dce65ed4859f7fe21e4c41b2a7ccf0c2e94877279e454eca222570db74b33592f03581e4c2c8fa094a9a1638f6956b21facd177&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV11-MCP
+#EXTINF:-1 tvg-name="cctv11" group-title="央视频道",cctv11-MCP
 https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=6593506349&sign=ca8ad79d317319586956e5d40eb958eefab0e923a710fc25142c97ee73430f210bd7ae0b26480f06fded6bf094c00043a95cb94a3adb0c30ac0d71b90d3065bda9c1b8f3b8530683eaf3b7cc6e48&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV12-MCP
+#EXTINF:-1 tvg-name="cctv12" group-title="央视频道",cctv12-MCP
 https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=6593506349&sign=b53ec622f40399688f952a20cda8465348f394b9d88db8638b9b9f1c685e677e2d6965d285cf5c832acb0084001838a75956c44a915769b67a621f8c8a1a70da42ca071e5b8d9c1be44dd3208af4&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13-MCP
+#EXTINF:-1 tvg-name="cctv13" group-title="央视频道",cctv13-MCP
 https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=6593506349&sign=36aa382ed43c721a06b184457fde28b80ef865855a701a4d8e8fa1faf9a0c6bdcfbdaa93ca0d94e6ee4437552caf4792f3fca384bfbb9ff422b445a66c84fecd10513876b1dfa3b87ddb46b8ce86&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14-MCP
+#EXTINF:-1 tvg-name="cctv14" group-title="央视频道",cctv14-MCP
 https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=6593506349&sign=fea7c92673a5c88795bb478282d5dc5580e0a32cc06c41bd33d0f10005d87a8e7944c6c0da813529b000489be87030d1bd7949e81326c762c2eea42d987a4b839b22c93624e26aa8958e714371ff&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV15-MCP
+#EXTINF:-1 tvg-name="cctv15" group-title="央视频道",cctv15-MCP
 https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=6593506349&sign=4010aa6b0df1743cbbdf1b89ea92ecf41c53944ddc3f9b3a28152b9b03ae18d6a357558ffadec6522f4163c1a3695ec96e78c0dacca9b5edb821ccddf002cc2ca57d0cccfc30aa8b55cf7d7ba178&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道",CCTV16-MCP
+#EXTINF:-1 tvg-name="cctv16" group-title="央视频道",cctv16-MCP
 https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=6593506349&sign=b4a10049335db1c448d2b4bce1259e04b6d2d27f6043b006cceccdcaac3601bbb03eb96792ab0c728f32cea0569fb000e9372dd23f99d6017d78cadcb1b0384b5600a4ceaa31217387dbba92c21f&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV17-MCP
+#EXTINF:-1 tvg-name="cctv17" group-title="央视频道",cctv17-MCP
 https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=6593506349&sign=2d0d818e2c00ac5c3e8babf28cdd57e2b6e3842ae7d25d2aaee20e1526159afce1d8fde1cd8f1a3fb8e6d4d050efb548c22be49d78e8beadc4d0290a3d16223afb774df03279f46867575ef9c2e0&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CCTV8K" group-title="央视频道",CCTV8K-MCP
+#EXTINF:-1 tvg-name="cctv8K" group-title="央视频道",cctv8K-MCP
 https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=6593506349&sign=88972f4778eb42ea5c931e8beec6877b9f2ed71c155e015d0d2a34212f0558b487c0243729dd001652958afd279b6b739984ba9ce38477090b09f8f84c93893811e7c31d4d2aad2046225bb2322b&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="CGTN纪录" group-title="央视频道",cgtndoc-MCP
 https://live.ottiptv.cc/mcp/cgtndoc.m3u8?userid=6593506349&sign=8089519e3d90c3e61d630154ef8900c8946d96fa05eac13d59d05095d9044c2953de919f4d079f84714f72be589afd1b51ecec5d371134e5d9b0d2616c4dc35ae21d32971a244840240db6832018a5&auth_token=73856594d031c8a205d569bbdf38cf4a
@@ -136,7 +136,7 @@ https://live.ottiptv.cc/mcp/guoxue.m3u8?userid=6593506349&sign=0903c62843f2bd501
 https://live.ottiptv.cc/mcp/cetv1.m3u8?userid=6593506349&sign=0b6d70afa7b2840ffe220b6143666c4399b8837692d2e6cf79e4e0c381d3cb2234fca1585059ad5bd57ffcfd7166bd0faf8cc645244b928758cc43e11227dacfc8478f05b19987f55de691f4bd&auth_token=73856594d031c8a205d569bbdf38cf4a
 
 #4K频道
-#EXTINF:-1 tvg-name="CCTV4K" group-title="4K频道",CCTV4K真4K
+#EXTINF:-1 tvg-name="cctv4K" group-title="4K频道",cctv4K真4K
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-name="广东卫视4K" group-title="4K频道",广东卫视4K
 http://go.bkpcp.top:80/mg/gdws
