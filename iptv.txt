@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
 #EXTINF:-1 tvg-name="cctv1" group-title="央视频道",cctv1-MCP
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr1080pvideo/playlist.m3u8
+https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=6593506349&sign=a887d92add02a26551f6d63c3d0b9be9aaed77af6663eaa52adf4e16b6e240dcf9f7dfd474453e694d92075c88807817f766368a3b1436e1aac8138e081a7ce5bcfc29c64392c23033dd8c5f15&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv2" group-title="央视频道",cctv2-MCP
 https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=6593506349&sign=0cc0e05b9634426e7812e48997705400cb4add3441dff32cd5a11b6fe371bb943ed61075d16c462b201aa8c6494ff35eb30bf83c561f66ec3b908afcd059afa82c910b6058205b3c5822453877&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv3" group-title="央视频道",cctv3-MCP
