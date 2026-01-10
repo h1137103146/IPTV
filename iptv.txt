@@ -68,8 +68,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://tv.2cf.de5.net/tv/3221225731/ts.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 https://tv.2cf.de5.net/tv/3221225719/ts.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-https://tv.2cf.de5.net/tv/3221225651/ts.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
 https://tv.2cf.de5.net/tv/3221225721/ts.m3u8
 #EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
@@ -146,8 +144,6 @@ http://go.bkpcp.top:80/mg/gdws
 https://tv.2cf.de5.net/tv/3221226465/ts.m3u8
 #EXTINF:-1 tvg-name="浙江卫视4K" group-title="4K频道",浙江卫视4K
 https://migu.188766.xyz/?migutoken=7a197b9eecc24b3efc682e43f91f2993&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-name="湖南卫视4K" group-title="4K频道",湖南卫视4K
-https://migu.188766.xyz/?migutoken=d58da8b1d8b77b8961b6ca5b6fd7bfd8&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 #EXTINF:-1 tvg-name="北京卫视4K" group-title="4K频道",北京卫视4K
 https://tv.2cf.de5.net/tv/3221226333/ts.m3u8
 #EXTINF:-1 tvg-name="东方卫视4K" group-title="4K频道",东方卫视4K
