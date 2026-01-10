@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
-#EXTINF:-1 tvg-name="cctv1" group-title="央视频道",cctv1-MCP
+#EXTINF:-1 tvg-name="CCTV1-综合" group-title="央视频道",CCTV1-综合
 https://tv.2cf.de5.net/tv/3221226355/ts.m3u8
 #EXTINF:-1 tvg-name="cctv2" group-title="央视频道",cctv2-MCP
 https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=6593506349&sign=0cc0e05b9634426e7812e48997705400cb4add3441dff32cd5a11b6fe371bb943ed61075d16c462b201aa8c6494ff35eb30bf83c561f66ec3b908afcd059afa82c910b6058205b3c5822453877&auth_token=73856594d031c8a205d569bbdf38cf4a
