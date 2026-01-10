@@ -38,13 +38,13 @@ https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=6593506349&sign=b4a10049335db1c44
 https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=6593506349&sign=2d0d818e2c00ac5c3e8babf28cdd57e2b6e3842ae7d25d2aaee20e1526159afce1d8fde1cd8f1a3fb8e6d4d050efb548c22be49d78e8beadc4d0290a3d16223afb774df03279f46867575ef9c2e0&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv8K-MCP" group-title="央视频道",cctv8K-MCP
 https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=6593506349&sign=88972f4778eb42ea5c931e8beec6877b9f2ed71c155e015d0d2a34212f0558b487c0243729dd001652958afd279b6b739984ba9ce38477090b09f8f84c93893811e7c31d4d2aad2046225bb2322b&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CGTN纪录" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="cgtndoc" group-title="央视频道",cgtndoc
 https://live.ottiptv.cc/mcp/cgtndoc.m3u8?userid=6593506349&sign=8089519e3d90c3e61d630154ef8900c8946d96fa05eac13d59d05095d9044c2953de919f4d079f84714f72be589afd1b51ecec5d371134e5d9b0d2616c4dc35ae21d32971a244840240db6832018a5&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CGTN法语" group-title="央视频道",CGTN法语
+#EXTINF:-1 tvg-name="cgtnfr" group-title="央视频道",cgtnfr
 https://live.ottiptv.cc/mcp/cgtnfr.m3u8?userid=6593506349&sign=97db6f4c46d401ac6a4f40090e2ed24696f5389c4bc47fb754bf614ab14a602362133f5d0f2eea4784f3e5455f557906bca0e630fa61f363b52d6e007c4f3f16295f0e7d87ef5ff01cc2820cb965&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CGTN俄语" group-title="央视频道",CGTN俄语
+#EXTINF:-1 tvg-name="cgtnru" group-title="央视频道",cgtnru
 https://live.ottiptv.cc/mcp/cgtnru.m3u8?userid=6593506349&sign=6e9fe37dbe8d52ed52d7d7d584da2bff323876a15c0e882cdad51c9e91a6ea263e04ae561ea1c711c06d8760dd668e2d8ee8e092e5cc368f0ef26c054bb220e2f1aabfe28079a94dec2213dbd42a&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="CGTN西语" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-name="cgtnsp" group-title="央视频道",cgtnsp
 https://live.ottiptv.cc/mcp/cgtnsp.m3u8?userid=6593506349&sign=60e146984cdd3d34981d8e8226b22054a15774a658a92940550a50ba1122bfb8bef861c473375669b5e2acd22a555b5792cab27f11b9f8b5b762575cd9ba886ce6957542337388224771caa7c450&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="CETV-1" group-title="央视频道",CETV-1
 https://mgtv.ottiptv.cc/mg/923287154.m3u8?userid=6593506349&sign=983e6eb2011d319b915ee3bcda88ee8a3207bf09de6fd0a8f8c2199a6c30d2d5b04b2e98793946f255c24d7f42f9f38d5eb2cb8dcf47e7a155773529cbf47c610e8319ce63fff4499a86ab04fd9df8c9ae&auth_token=73856594d031c8a205d569bbdf38cf4a
