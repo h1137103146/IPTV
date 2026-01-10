@@ -1,40 +1,40 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1-综合
 https://tv.2cf.de5.net/tv/3221225654/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2-财经
 https://tv.2cf.de5.net/tv/3221225657/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV3-综艺
 https://tv.2cf.de5.net/tv/3221225713/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV4-中文国际
 https://tv.2cf.de5.net/tv/3221225761/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV5-体育
 https://tv.2cf.de5.net/tv/3221225660/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5+体育赛事
 https://tv.2cf.de5.net/tv/3221225712/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV6-电影
 https://tv.2cf.de5.net/tv/3221225715/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV7-国防军事
 https://tv.2cf.de5.net/tv/3221225700/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV8-电视剧
 https://tv.2cf.de5.net/tv/3221225716/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV9-纪录
 https://tv.2cf.de5.net/tv/3221225663/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV10-科教
 https://tv.2cf.de5.net/tv/3221225704/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV11-戏曲
 https://tv.2cf.de5.net/tv/3221225739/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV12-社会与法
 https://tv.2cf.de5.net/tv/3221225645/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13-新闻
 https://tv.2cf.de5.net/tv/3221225742/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14-少儿
 https://tv.2cf.de5.net/tv/3221225648/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV15-音乐
 https://tv.2cf.de5.net/tv/3221225693/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道",CCTV16-奥林匹克
 https://tv.2cf.de5.net/tv/3221225937/ts.m3u8
-#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV17-农业农村
 https://tv.2cf.de5.net/tv/3221225766/ts.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" group-title="央视频道",CCTV8K
 https://live.ottiptv.cc/mcp/CCTV8k.m3u8?userid=6593506349&sign=88972f4778eb42ea5c931e8beec6877b9f2ed71c155e015d0d2a34212f0558b487c0243729dd001652958afd279b6b739984ba9ce38477090b09f8f84c93893811e7c31d4d2aad2046225bb2322b&auth_token=73856594d031c8a205d569bbdf38cf4a
