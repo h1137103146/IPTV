@@ -7,7 +7,7 @@ https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=6593506349&sign=0cc0e05b9634426e78
 #EXTINF:-1 tvg-name="cctv3" group-title="央视频道",cctv3-MCP
 https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=6593506349&sign=b87337f49b68f4cb6a18b6056c266ba9b87bfd9f1b71baff22ba4f2651e929125c4922b9ce486c6775297c0f0ff0400759eb9abaa0a9e87743b8d187fbdad01168ced8bc9cfd2d9a780a1da8ef&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv4" group-title="央视频道",cctv4-MCP
-https://tv.2cf.de5.net/tv/3221225761/ts.m3u8
+http://120.70.60.179:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv5" group-title="央视频道",cctv5-MCP
 https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=6593506349&sign=51629968f71d24eb53b5f98f78eb0b84a68db1c753bb06d071a0be58e790d9f64e60bab7464f77fc57c67f115ac6caf7967d7f06c49b61f2fb3d55df700690d94c26275f9d931912964b1ec305&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv5p" group-title="央视频道",cctv5p-MCP
@@ -17,11 +17,11 @@ https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=6593506349&sign=001c4405c4a3a7bdf1
 #EXTINF:-1 tvg-name="cctv7" group-title="央视频道",cctv7-MCP
 https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=6593506349&sign=5812c07f092c51293e5db57188c087a2c0beecc6f2e6c5212f677ccb693856645350d23d1c35074ca1c2947274f20f2ed5979aa5c2cff2e0b58674a9cbb4a29183985dc3f0fc33e7450255d737&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv8" group-title="央视频道",cctv8-MCP
-https://tv.2cf.de5.net/tv/3221225716/ts.m3u8
+http://120.70.60.179:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv9" group-title="央视频道",cctv9-MCP
 https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=6593506349&sign=0e30c60662569b6386d0d64e8d678cccaa1c58e72b1c88eb5e6005caf2f066c5ffdcaa1005bb0fb7d4ffb80129c85bddefa51845df7a8f8c149949ee45badcdef6ba276c6ef23db4afecbc8a21&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv10" group-title="央视频道",cctv10-MCP
-https://tv.2cf.de5.net/tv/3221225704/ts.m3u8
+http://120.70.60.179:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv11" group-title="央视频道",cctv11-MCP
 https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=6593506349&sign=ca8ad79d317319586956e5d40eb958eefab0e923a710fc25142c97ee73430f210bd7ae0b26480f06fded6bf094c00043a95cb94a3adb0c30ac0d71b90d3065bda9c1b8f3b8530683eaf3b7cc6e48&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv12" group-title="央视频道",cctv12-MCP
@@ -139,19 +139,19 @@ https://live.ottiptv.cc/mcp/cetv1.m3u8?userid=6593506349&sign=0b6d70afa7b2840ffe
 
 #4K频道
 #EXTINF:-1 tvg-name="cctv4K真4K" group-title="4K频道",cctv4K真4K-MCP
-http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+https://tv.2cf.de5.net/tv/3221225726/ts.m3u8
 #EXTINF:-1 tvg-name="广东卫视4K" group-title="4K频道",广东卫视4K
 http://go.bkpcp.top:80/mg/gdws
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="4K频道",江苏卫视4K
-https://tv.2cf.de5.net/tv/3221226465/ts.m3u8
+http://8.138.7.223/tv/jsws4k.php
 #EXTINF:-1 tvg-id="湖南卫视" group-title="超清频道",湖南卫视4K
 https://migu.188766.xyz/?migutoken=f6f9b0f280c982c6311a037916cff951&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 #EXTINF:-1 tvg-name="浙江卫视4K" group-title="4K频道",浙江卫视4K
-https://migu.188766.xyz/?migutoken=7a197b9eecc24b3efc682e43f91f2993&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="北京卫视4K" group-title="4K频道",北京卫视4K
 https://tv.2cf.de5.net/tv/3221226333/ts.m3u8
 #EXTINF:-1 tvg-name="东方卫视4K" group-title="4K频道",东方卫视4K
-https://migu.188766.xyz/?migutoken=59b055177f4e00f9d5249ebecc975689&id=dfws&type=sz
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 tvg-name="深圳卫视4K" group-title="4K频道",深圳卫视4K
 http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #EXTINF:-1 tvg-name="山东卫视4K" group-title="4K频道",山东卫视4K
