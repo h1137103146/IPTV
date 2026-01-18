@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
-#EXTINF:-1 tvg-id="cctv1-MCP" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" http-user-agent="okHttp/Mod-1.5.0.0" group-title="央视频道",cctv1-MCP
+#EXTINF:-1 tvg-id="cctv1" group-title="央视频道",cctv1-MCP
 https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=6593506349&sign=a887d92add02a26551f6d63c3d0b9be9aaed77af6663eaa52adf4e16b6e240dcf9f7dfd474453e694d92075c88807817f766368a3b1436e1aac8138e081a7ce5bcfc29c64392c23033dd8c5f15&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-id="cctv2" group-title="央视频道",cctv2-MCP
 https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=6593506349&sign=0cc0e05b9634426e7812e48997705400cb4add3441dff32cd5a11b6fe371bb943ed61075d16c462b201aa8c6494ff35eb30bf83c561f66ec3b908afcd059afa82c910b6058205b3c5822453877&auth_token=73856594d031c8a205d569bbdf38cf4a
@@ -138,7 +138,7 @@ https://live.ottiptv.cc/mcp/guoxue.m3u8?userid=6593506349&sign=0903c62843f2bd501
 https://live.ottiptv.cc/mcp/cetv1.m3u8?userid=6593506349&sign=0b6d70afa7b2840ffe220b6143666c4399b8837692d2e6cf79e4e0c381d3cb2234fca1585059ad5bd57ffcfd7166bd0faf8cc645244b928758cc43e11227dacfc8478f05b19987f55de691f4bd&auth_token=73856594d031c8a205d569bbdf38cf4a
 
 #4K频道
-#EXTINF:-1 tvg-id="cctv4K-MCP" group-title="4K频道",cctv4K-MCP
+#EXTINF:-1 tvg-id="cctv4K" group-title="4K频道",cctv4K-MCP
 https://tv.2cf.de5.net/tv/3221225726/ts.m3u8
 #EXTINF:-1 tvg-id="广东卫视4K" group-title="4K频道",广东卫视4K
 http://go.bkpcp.top:80/mg/gdws
