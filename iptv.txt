@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
 #央视频道
 #EXTINF:-1 tvg-id="cctv1" group-title="央视频道",cctv1-MCP
 https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=6593506349&sign=a887d92add02a26551f6d63c3d0b9be9aaed77af6663eaa52adf4e16b6e240dcf9f7dfd474453e694d92075c88807817f766368a3b1436e1aac8138e081a7ce5bcfc29c64392c23033dd8c5f15&auth_token=73856594d031c8a205d569bbdf38cf4a
