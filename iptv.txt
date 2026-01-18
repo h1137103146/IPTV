@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://11.112114.xyz/logo/cctv1.png" group-title="央视频道",cctv1
 https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=6593506349&sign=5cf67bfad199f17c37e0fd2d8f180fc86c4ea80c79c027b06fe519669feca1567e6c50eda618653eb213249ac4beb5fbbdd4032c9bc48b3bcb5995aa9da3d7056ffb1c371849149a8f86e563cc&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv2" tvg-logo="https://11.112114.xyz/logo/cctv2.png" group-title="央视频道",cctv2-MCP
 https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=6593506349&sign=0cc0e05b9634426e7812e48997705400cb4add3441dff32cd5a11b6fe371bb943ed61075d16c462b201aa8c6494ff35eb30bf83c561f66ec3b908afcd059afa82c910b6058205b3c5822453877&auth_token=73856594d031c8a205d569bbdf38cf4a
@@ -36,7 +36,7 @@ https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=6593506349&sign=4010aa6b0df1743cb
 https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=6593506349&sign=b4a10049335db1c448d2b4bce1259e04b6d2d27f6043b006cceccdcaac3601bbb03eb96792ab0c728f32cea0569fb000e9372dd23f99d6017d78cadcb1b0384b5600a4ceaa31217387dbba92c21f&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv17" tvg-logo="https://11.112114.xyz/logo/cctv17.png" group-title="央视频道",cctv17-MCP
 https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=6593506349&sign=2d0d818e2c00ac5c3e8babf28cdd57e2b6e3842ae7d25d2aaee20e1526159afce1d8fde1cd8f1a3fb8e6d4d050efb548c22be49d78e8beadc4d0290a3d16223afb774df03279f46867575ef9c2e0&auth_token=73856594d031c8a205d569bbdf38cf4a
-#EXTINF:-1 tvg-name="cctv8K-MCP" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="央视频道",cctv8K-MCP
+#EXTINF:-1 tvg-name="cctv8K" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="央视频道",cctv8K-MCP
 https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=6593506349&sign=88972f4778eb42ea5c931e8beec6877b9f2ed71c155e015d0d2a34212f0558b487c0243729dd001652958afd279b6b739984ba9ce38477090b09f8f84c93893811e7c31d4d2aad2046225bb2322b&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cgtndoc" tvg-logo="https://11.112114.xyz/logo/cgtndocumentary.png" group-title="央视频道",cgtndoc
 https://live.ottiptv.cc/mcp/cgtndoc.m3u8?userid=6593506349&sign=8089519e3d90c3e61d630154ef8900c8946d96fa05eac13d59d05095d9044c2953de919f4d079f84714f72be589afd1b51ecec5d371134e5d9b0d2616c4dc35ae21d32971a244840240db6832018a5&auth_token=73856594d031c8a205d569bbdf38cf4a
