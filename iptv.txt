@@ -27,7 +27,7 @@ https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=6593506349&sign=ca8ad79d317319586
 #EXTINF:-1 tvg-name="cctv12" group-title="央视频道",cctv12-MCP
 https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=6593506349&sign=b53ec622f40399688f952a20cda8465348f394b9d88db8638b9b9f1c685e677e2d6965d285cf5c832acb0084001838a75956c44a915769b67a621f8c8a1a70da42ca071e5b8d9c1be44dd3208af4&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv13" group-title="央视频道",cctv13-MCP
-https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=6593506349&sign=36aa382ed43c721a06b184457fde28b80ef865855a701a4d8e8fa1faf9a0c6bdcfbdaa93ca0d94e6ee4437552caf4792f3fca384bfbb9ff422b445a66c84fecd10513876b1dfa3b87ddb46b8ce86&auth_token=73856594d031c8a205d569bbdf38cf4a
+https://tv.2cf.de5.net/tv/3221225742/ts.m3u8
 #EXTINF:-1 tvg-name="cctv14" group-title="央视频道",cctv14-MCP
 https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=6593506349&sign=fea7c92673a5c88795bb478282d5dc5580e0a32cc06c41bd33d0f10005d87a8e7944c6c0da813529b000489be87030d1bd7949e81326c762c2eea42d987a4b839b22c93624e26aa8958e714371ff&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv15" group-title="央视频道",cctv15-MCP
