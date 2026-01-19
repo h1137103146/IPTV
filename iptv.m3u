@@ -140,6 +140,8 @@ https://live.ottiptv.cc/mcp/cetv1.m3u8?userid=6593506349&sign=0b6d70afa7b2840ffe
 #4K频道
 #EXTINF:-1 tvg-name="cctv4K" group-title="4K频道",cctv4K-MCP
 https://tv.2cf.de5.net/tv/3221225726/ts.m3u8
+#EXTINF:-1 tvg-name="北京卫视4K" group-title="4K频道",北京卫视4K
+http://139.ye23.vip/dl/btv2502.php?id=bjws4
 #EXTINF:-1 tvg-name="广东卫视4K" group-title="4K频道",广东卫视4K
 http://go.bkpcp.top:80/mg/gdws
 #EXTINF:-1 tvg-name="江苏卫视4K" group-title="4K频道",江苏卫视4K
@@ -508,7 +510,8 @@ rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="纬来育乐" group-title="港·澳·台",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-name="中天新聞" group-title="港·澳·台",中天新聞
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
+#http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
 #EXTINF:-1 tvg-name="台视新闻" group-title="港·澳·台",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="东森超视" group-title="港·澳·台",东森超视
