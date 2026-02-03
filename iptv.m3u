@@ -9,7 +9,7 @@ https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=6593506349&sign=b87337f49b68f4cb6a
 #EXTINF:-1 tvg-name="cctv4" tvg-logo="https://11.112114.xyz/logo/cctv4.png" group-title="央视频道",cctv4-MCP
 http://120.70.60.179:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv5" tvg-logo="https://11.112114.xyz/logo/cctv5.png" group-title="央视频道",cctv5-MCP
-https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=6593506349&sign=51629968f71d24eb53b5f98f78eb0b84a68db1c753bb06d071a0be58e790d9f64e60bab7464f77fc57c67f115ac6caf7967d7f06c49b61f2fb3d55df700690d94c26275f9d931912964b1ec305&auth_token=73856594d031c8a205d569bbdf38cf4a
+http://120.70.60.179:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://11.112114.xyz/logo/cctv5p.png" group-title="央视频道",cctv5p-MCP
 https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=6593506349&sign=e448d145b607624e26d3610a8dd3c18bc9b214fcd3456e84afe5743611269314750246d1870b4ce7dc182f75b6d3ea90d83f5cf0edc4a2113feab62eb735eca5ad6e288c67b8a7b14eb954673f52&auth_token=73856594d031c8a205d569bbdf38cf4a
 #EXTINF:-1 tvg-name="cctv6" tvg-logo="https://11.112114.xyz/logo/cctv6.png" group-title="央视频道",cctv6-MCP
