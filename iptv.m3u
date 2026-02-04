@@ -487,7 +487,7 @@ https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="港·澳·台",翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台4K" group-title="港·澳·台",翡翠台4K
-http://cdn6.163189.xyz/163189/fct4k
+https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="翡翠台北美版" group-title="港·澳·台",翡翠台北美版
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-name="TVBS新闻台" group-title="港·澳·台",TVBS新闻台
